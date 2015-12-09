@@ -7,7 +7,7 @@
 class Bforward_RemoveDecimal_Helper_Data extends Mage_Core_Helper_Abstract
 {
     /**
-     * Gets extension status from system->configuration->catalog->Removing decimal from price
+     * Gets extension status from system->configuration->catalog->Remove decimals from price
      * @return int
      */
     public function getExtensionStatus()

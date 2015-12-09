@@ -4,7 +4,7 @@
         <catalog translate="label" module="bforward_remove_decimal">
             <groups>
                 <removing_decimal translate="label">
-                    <label>Removing decimal from price</label>
+                    <label>Remove decimals from price</label>
                     <frontend_type>text</frontend_type>
                     <sort_order>420</sort_order>
                     <show_in_default>1</show_in_default>
